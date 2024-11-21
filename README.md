@@ -14,11 +14,11 @@ New Aviation Division: Implements aircraft acquisition and operational processes
 
 ## Business Questions 
 
-Why does aviation safety incidents occur and how to mitigate these risks?
+- Why does aviation safety incidents occur and how to mitigate these risks?
 
-How do operational factors affects the severity of incidents?
+- How do operational factors affects the severity of incidents?
 
-What are geographical factors and how do they affect rates of incidents?
+- What are geographical factors and how do they affect rates of incidents?
 
 ## Data Understanding and Analysis
 ### Source of Data
@@ -27,33 +27,33 @@ The data was sourced from historical aviation safety records, containing details
 ### Description of Data
 #### The dataset includes:
 
-Aircraft Features: Number of engines, make, model, and category.
-Incident Metrics: Total fatalities, serious injuries, and minor injuries.
-Flight Conditions: Weather, phase of flight, and purpose of flight.
+- Aircraft Features: Number of engines, make, model, and category.
+- Incident Metrics: Total fatalities, serious injuries, and minor injuries.
+- Flight Conditions: Weather, phase of flight, and purpose of flight.
 
 ## Visualizations
 Below are key visualizations from our analysis:
 
-Safety Metrics by Aircraft Model
+- Safety Metrics by Aircraft Model
 
-Identifies the models with the lowest incident rates.
+= Identifies the models with the lowest incident rates.
 
-Weather Impact on Incidents
+- Weather Impact on Incidents
 
-Demonstrates the effect of adverse weather conditions on safety.
+- Demonstrates the effect of adverse weather conditions on safety.
 
 ## Conclusion
 ## Summary of Conclusions
 This are the main insights from data analysis, modeling and business strategy development
 
-Safety as a core value.
-market segmentation and targeting
-operational efficiency and cost control.
-strategic expansion.
+- Safety as a core value.
+- market segmentation and targeting
+- operational efficiency and cost control.
+- strategic expansion.
 
 ## Recommendations
 
-Prioritize safety and regulatory compliance.
-Optimize Operations for cost efficiency
-Leverage data for strategic planning
-Adopt customer centric offerings
+- Prioritize safety and regulatory compliance.
+- Optimize Operations for cost efficiency
+- Leverage data for strategic planning
+- Adopt customer centric offerings
